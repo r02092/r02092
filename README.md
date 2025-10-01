@@ -12,8 +12,6 @@
 </div>
 
 ## 🌱技術スタック
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?bg_color=007830&border_radius=18&custom_title=よく使う言語&hide_border=true&langs_count=8&layout=pie&text_color=fff&title_color=fff&username=r02092">
-
 ### 📝言語・ライブラリ・フレームワーク
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
 ![CSS](https://img.shields.io/badge/CSS-639)
